@@ -1,2 +1,7 @@
 /nbproject/
 /WebDocs/nbproject/private/
+/test/
+.bowerrc
+Gruntfile.js
+gulpfile.js
+package.json
